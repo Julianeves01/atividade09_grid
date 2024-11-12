@@ -65,7 +65,7 @@ body {
 
 .aside {
     grid-area: aside;
-    background-color: rgb(0, 0, 0);
+    background-color:plum;
     color: rgb(255, 255, 255);
     padding: 20px;
     width: 13rem;
